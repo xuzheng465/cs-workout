@@ -1,3 +1,7 @@
+I start following this repo to practice coding.
+
+My practice files are in leetcode folder
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
